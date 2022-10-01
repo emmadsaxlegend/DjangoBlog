@@ -87,9 +87,10 @@ header * {
 header .logo {
     float: left;
     height: inherit;
-    border: 1px solid rgb(143, 234, 239);
-    border-radius: 30px;
+    /* border: 1px solid rgb(143, 234, 239);
+    border-radius: 30px; */
     margin-left: 2em;
+    padding-top: 10px;
 }
 
 header .logo-text {
